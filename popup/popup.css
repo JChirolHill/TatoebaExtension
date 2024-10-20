@@ -6,9 +6,11 @@ body {
 
 body {
     width: 400px;
+    font-size: 100%;
 }
 
 .header {
+    font-size: 75%;
     background-color: #50af50;
     color: white;
     text-align: center;
@@ -33,4 +35,5 @@ img {
     display: block;
     border: 1px solid grey;
     border-radius: 5px;
+    margin-bottom: 5px;
 }
